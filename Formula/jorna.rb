@@ -1,9 +1,9 @@
 class Jorna < Formula
   desc "Postman-like tui app"
   homepage "https://github.com/imranaskem/jorna"
-  url "https://github.com/imranaskem/jorna/releases/download/v0.1.3/jorna-macos-arm64.tar.gz"
-  sha256 "63e18667e56b4d7957fc981ef8779de0e3d781d48426ade7d0bdded84385ea3d"
-  version "0.1.3"
+  url "https://github.com/imranaskem/jorna/releases/download/v0.1.4/jorna-macos-arm64.tar.gz"
+  sha256 "bf9925cb88f0150a3118fad7426d2f6b3c906a4572fd66673926946fe462bf73"
+  version "0.1.4"
   license "MIT" # or whatever license you use
 
   def install
